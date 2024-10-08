@@ -1,4 +1,11 @@
-# React + TypeScript + Vite
+<!-- # React + TypeScript + Vite
+
+
+https://arslanbinjaffar2.github.io/react-redux-new-things/
+
+deploy on github pages 
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -47,4 +54,4 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 })
-```
+``` -->
